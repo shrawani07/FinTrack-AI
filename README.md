@@ -51,7 +51,9 @@ npm install
 Create a .env.local file and add:
 
 MONGODB_URI=your_mongodb_uri
+
 OPENAI_API_KEY=your_openai_api_key
+
 NEXTAUTH_SECRET=your_secret_key
 
 ▶️ Run Locally
@@ -62,7 +64,9 @@ http://localhost:3000
 
 📌 Resume Highlights
 Developed FinTrack AI using OpenAI APIs, NLP, Next.js, and MongoDB, improving financial analysis by 40%.
+
 Integrated AI/ML-based expense analysis and smart financial insights, increasing user engagement by 35%.
+
 Built a responsive analytics dashboard with React, Tailwind CSS, and Recharts, reducing load time by 30%.
 
 📂 Project Structure
@@ -78,16 +82,17 @@ FinTrack-AI/
 │── README.md
 
 🌟 Future Enhancements
-AI budget prediction
-Investment tracking
-Voice assistant integration
-Multi-currency support
-Export reports as PDF/Excel
+1. AI budget prediction
+2. Investment tracking
+3. Voice assistant integration
+4. Multi-currency support
+5. Export reports as PDF/Excel
 
 👨‍💻 Author
 Shrawani Gongshe
 
 LinkedIn: https://www.linkedin.com/in/shrawani-gongshe/
+
 GitHub: https://github.com/shrawani07
 
 📜 License
