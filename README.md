@@ -37,7 +37,7 @@ AI-based Financial Analysis
 ⚙️ Installation
 Clone the repository:
 
-git clone https://github.com/yourusername/fintrack-ai.git
+git clone: https://github.com/shrawani07/FinTrack-AI
 
 Move to the project folder:
 
